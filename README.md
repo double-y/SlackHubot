@@ -1,1 +1,3 @@
 SlackHubot
+
+hubot for slack
